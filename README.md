@@ -33,3 +33,9 @@ The control system is built using a Bare-Metal C++ approach, interacting directl
 ## Roadmap
 * **Iteration 2:** Re-design to be 3D printed and with higher torque MG996R servos. Integration of a potentiometer twin that can be used to control the arm and set a path that can be repeated. Potential implementation of computer vision.
 * **Iteration 3:** 3D printed design using stepper motors rather than servos to improve precison and smooth movement.
+
+## Preview
+<img width="1259" height="992" alt="Screenshot 2026-04-07 222445" src="https://github.com/user-attachments/assets/1f871e1f-59cf-4a8e-828b-3e082033ea50" />
+<img width="3060" height="1831" alt="Screenshot 2026-04-07 222706" src="https://github.com/user-attachments/assets/825e9896-372e-4f9e-bd72-f2fb675c3733" />
+<img width="3058" height="1825" alt="image" src="https://github.com/user-attachments/assets/6f0936e8-013d-4845-b46d-0486217360af" />
+
