@@ -28,7 +28,6 @@ The control system is built using a Bare-Metal C++ approach, interacting directl
 ##  Repository Structure
 * `/src`: Contains the `.cpp` and `.h` files featuring register-level setup and ISR logic.
 * `/cad`: Includes exported DXF files for laser cutting and 3D assembly references.
-* `/docs`: Wiring schematics and register mapping tables for the ATmega328P.
 
 ## Roadmap
 * **Iteration 2:** Re-design to be 3D printed and with higher torque MG996R servos. Integration of a potentiometer twin that can be used to control the arm and set a path that can be repeated. Potential implementation of computer vision.
