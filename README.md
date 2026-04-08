@@ -38,6 +38,5 @@ The control system is built using a Bare-Metal C++ approach, interacting directl
 <img width="3060" height="1831" alt="Screenshot 2026-04-07 222706" src="https://github.com/user-attachments/assets/825e9896-372e-4f9e-bd72-f2fb675c3733" />
 <img width="1060" height="1413" alt="Screenshot 2026-04-07 224959" src="https://github.com/user-attachments/assets/6c189880-b242-48af-8faf-26d89dd5725a" />
 <img width="1341" height="960" alt="Screenshot 2026-04-08 010937" src="https://github.com/user-attachments/assets/0dbdc009-900f-4154-bc7b-4be1087100a4" />
-
-
+<img width="1870" height="1404" alt="Screenshot 2026-04-08 011406" src="https://github.com/user-attachments/assets/f1159e06-65dc-4f45-97f0-5fee2e1eb7f1" />
 
